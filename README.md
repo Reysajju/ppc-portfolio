@@ -1,3 +1,3 @@
 # ppc-portfolio
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Reysajju/ppc-portfolio)
+[Edit in StackBlitz next generation editor ⚡️](https://google-adsppc.netlify.app/)
